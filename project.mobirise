@@ -46,24 +46,30 @@
             "parallax": true,
             "bgImageRadio": true,
             "showArrow": true,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/pic5-2000x2995.png",
             "bgColor": "#a07e49",
             "bgColorRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
             "bgVideoRadio": false,
-            "overlay": false,
+            "overlay": true,
             "overlayOpacity": 0.5,
             "overlayColor": "#000",
             "contentAlign": "center",
             "showTitle": true,
             "showText": true,
-            "showButtons": false
+            "showButtons": true
           },
           "title": "Make life better",
           "text": "Life is hard. We try to make better with these awesome tasty cakes :-)",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">DOWNLOAD FOR MAC</a>"
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">DOWNLOAD FOR ANDROID</a>  <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">DOWNLOAD FOR iOS</a>",
+          "_styles": {
+            ".mbr-section-title": {
+              "text-align": "center",
+              "font-size": "60px"
+            }
+          }
         },
         {
           "_tags": [
@@ -79,10 +85,10 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/pic1-2000x2994-800x1197.png",
-                "image": "@PROJECT_PATH@/assets/images/pic1-2000x2994.png",
+                "thumb": "@PROJECT_PATH@/assets/images/pic6-2000x1500-800x600.png",
+                "image": "@PROJECT_PATH@/assets/images/pic6-2000x1500.png",
                 "caption": "Type caption here",
-                "active": false
+                "active": true
               },
               {
                 "tags": "Awesome",
@@ -99,50 +105,20 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/pic3-2000x1335-800x534.png",
+                "image": "@PROJECT_PATH@/assets/images/pic3-2000x1335.png",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Awesome",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/pic2-2000x1333-800x533.png",
                 "image": "@PROJECT_PATH@/assets/images/pic2-2000x1333.png",
                 "caption": "Type caption here",
                 "active": false
-              },
-              {
-                "tags": "Awesome",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/pic6-2000x1500-800x600.png",
-                "image": "@PROJECT_PATH@/assets/images/pic6-2000x1500.png",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Awesome",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/pic3-2000x1335-800x534.png",
-                "image": "@PROJECT_PATH@/assets/images/pic3-2000x1335.png",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Awesome",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/pic3-2000x1335-800x534.png",
-                "image": "@PROJECT_PATH@/assets/images/pic3-2000x1335.png",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Awesome",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/pic3-2000x1335-800x534.png",
-                "image": "@PROJECT_PATH@/assets/images/pic3-2000x1335.png",
-                "caption": "Type caption here",
-                "active": true
               }
             ],
             "spacing": 0,
