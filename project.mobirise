@@ -41,11 +41,17 @@
             "Theme"
           ],
           "_name": "header1",
+          "_styles": {
+            ".mbr-section-title": {
+              "text-align": "center",
+              "font-size": "60px"
+            }
+          },
           "_anchor": "header1-1",
           "_params": {
             "parallax": true,
             "bgImageRadio": true,
-            "showArrow": true,
+            "showArrow": false,
             "bgImage": "@PROJECT_PATH@/assets/images/pic5-2000x2995.png",
             "bgColor": "#a07e49",
             "bgColorRadio": false,
@@ -63,13 +69,7 @@
           },
           "title": "Make life better",
           "text": "Life is hard. We try to make better with these awesome tasty cakes :-)",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://bduttadrg.github.io/cakes/page1\" data-toolbar=\"-mbrBtnMove\">DOWNLOAD FOR ANDROID</a>  <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">DOWNLOAD FOR iOS</a>",
-          "_styles": {
-            ".mbr-section-title": {
-              "text-align": "center",
-              "font-size": "60px"
-            }
-          }
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://bduttadrg.github.io/cakes/page1.html\" data-toolbar=\"-mbrBtnMove\">DOWNLOAD FOR ANDROID</a>  <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">DOWNLOAD FOR iOS</a>"
         },
         {
           "_tags": [
